@@ -1,19 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Projekt választó</title>
     <style>
-        body {background-color: #001122;
+        body {
+            background: rgb(2, 0, 36);
+            background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 23%, rgba(0, 212, 255, 1) 100%);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+        }
+
+        .center {
+            /*display: block;*/
+            width: 100px;
+            margin-left: auto;
+            margin-right: auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .link {
+            width: 500px;
+            padding: 50px;
+            background: grey;
+
         }
     </style>
 </head>
+
 <body>
-    
-        <div class="projekt"><a href="projekt1/index.html">Projekt 1</a></div>
-        <div class="projekt"><a href="projekt2/index.html">Projekt 2</a></div>
-    
+
+    <a class="center" href="projekt1/index.html">
+        <div class="link">
+            Rrojekt1
+        </div>
+    </a>
+    <a class="center" href="projekt2/index.html">
+        <div class="link">
+            Projekt2
+        </div>
+    </a>
+
 </body>
+
 </html>
