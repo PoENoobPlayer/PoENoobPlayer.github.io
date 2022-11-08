@@ -11305,3 +11305,12 @@ textarea.form-control-lg {
   padding-top: 150px;
   padding-left: 450px;
 }
+.text-custom{
+  --bs-text-opacity: 1;
+  color: rgb(176, 255, 73);
+}
+.batumaret{
+  font-size: 20px;
+  text-decoration: none;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
