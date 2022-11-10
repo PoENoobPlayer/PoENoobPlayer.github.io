@@ -11307,10 +11307,20 @@ textarea.form-control-lg {
 }
 .text-custom{
   --bs-text-opacity: 1;
-  color: rgb(176, 255, 73);
+  color: rgb(111, 122, 67);
 }
 .batumaret{
   font-size: 20px;
   text-decoration: none;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.tortenet{
+  background-color: rgba(20, 205, 192, 0.5);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.kepek{
+  height: 25px;
+  width: 25px;
 }
