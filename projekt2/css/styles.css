@@ -11321,6 +11321,9 @@ textarea.form-control-lg {
   background-size: cover;
 }
 .kepek{
-  height: 25px;
-  width: 25px;
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+  border: 8px ridge blue;  
+  padding: 5px;
 }
