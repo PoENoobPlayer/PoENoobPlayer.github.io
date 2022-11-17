@@ -11326,4 +11326,5 @@ textarea.form-control-lg {
   margin-right: auto;  
   border: 8px ridge blue;  
   padding: 5px;
+  border-radius: 20px;
 }
