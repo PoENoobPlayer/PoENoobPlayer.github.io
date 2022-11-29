@@ -11340,6 +11340,10 @@ textarea.form-control-lg {
   object-fit: cover;
   display: block; 
 }
+.container {
+  width: 60%;
+  margin: 2rem auto; 
+}
 .gallery__item--1 {
   grid-column-start: 1;
   grid-column-end: 3;
