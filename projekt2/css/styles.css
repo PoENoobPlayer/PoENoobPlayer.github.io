@@ -11348,3 +11348,9 @@ textarea.form-control-lg {
   grid-row-start: 1;
   grid-row-end: 3;
 }
+.gallery__item--3 {
+  grid-column-start: 5;
+  grid-column-end: 9;
+  grid-row-start: 1;
+  grid-row-end: 6;
+}
