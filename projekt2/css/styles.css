@@ -11327,5 +11327,10 @@ textarea.form-control-lg {
   border-radius: 20px;
   border: 8px ridge blue;  
   padding: 5px;
-  
+}
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: repeat(8, 5vw);
+  grid-gap: 15px;
 }
