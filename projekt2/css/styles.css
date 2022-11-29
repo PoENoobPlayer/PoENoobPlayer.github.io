@@ -11333,8 +11333,12 @@ textarea.form-control-lg {
   grid-template-columns: repeat(8, 1fr);
   grid-template-rows: repeat(8, 5vw);
   grid-gap: 15px;
-  border-radius: 15px;
-  margin: 12px ;
+}
+.gallery__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block; 
 }
 .gallery__item--1 {
   grid-column-start: 1;
@@ -11352,5 +11356,11 @@ textarea.form-control-lg {
   grid-column-start: 5;
   grid-column-end: 9;
   grid-row-start: 1;
+  grid-row-end: 6;
+}
+.gallery__item--4 {
+  grid-column-start: 1;
+  grid-column-end: 5;
+  grid-row-start: 3;
   grid-row-end: 6;
 }
