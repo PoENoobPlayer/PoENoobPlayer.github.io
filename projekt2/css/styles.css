@@ -11325,14 +11325,14 @@ textarea.form-control-lg {
   margin-left: auto;  
   margin-right: auto;  
   border-radius: 20px;
-  border: 18px ridge blue;  
-  padding: 15px;
+  border: 8px ridge blue;  
+  padding: 5px;
 }
 .gallery {
   display: grid;
   grid-template-columns: repeat(8, 1fr);
   grid-template-rows: repeat(8, 5vw);
-  grid-gap: 20px;
+  grid-gap: 15px;
 }
 .gallery__img {
   width: 100%;
@@ -11341,8 +11341,8 @@ textarea.form-control-lg {
   display: block; 
 }
 .container2 {
-  width: 75%;
-  margin: 2.3rem auto; 
+  width: 60%;
+  margin: 2rem auto; 
 }
 .gallery__item--1 {
   grid-column-start: 1;
