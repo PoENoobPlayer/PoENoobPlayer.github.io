@@ -18,3 +18,11 @@ Medal of Honor: Above and Beyond - 2020 - 40$ - Windows, Oculus VR
 Call of Duty - 2003 - 20$ - Windows, MacOS, N-gage, Xbox360, PS3
 Call of Duty 2 - 2005 - 20$ - Windows, MacOS, Mobile, Xbox360
 Call of Duty 3 - 2006 - 20$ - Xbox360, Xbox, PS2, Windows
+Call of Duty 4: Modern Warfare - 2007 - 20$ - Windows, MacOS, Xbox360, Wii, PS3
+Call of Duty: World at War - 2008 - 20$ - Windows, Xbox360, Wii, PS3
+Call of Duty: Modern Warfare 2 - 2009 - 20$ - Windows, Xbox360, PS3
+Call of Duty: Black Ops - 2010 - 40$ - Windows, NintendoDS, PS3, Wii, Xbox360, MacOS
+Call of Duty: Modern Warfare 3 - 2011 - 40$ - Windows, NintendoDS, Xbox360, PS3, Wii
+Call of Duty: Black Ops 2 - 2012 - 60$ - Windows, Xbox360, PS3, WiiU
+Call of Duty: Ghosts - 2013 - 60$ - Windows, Xbox360, XboxOne, PS3, PS4, WiiU
+Call of Duty: Advanced Warfare - 2014 - 60$ - Windows, Xbox360, XboxOne, PS3, PS4
